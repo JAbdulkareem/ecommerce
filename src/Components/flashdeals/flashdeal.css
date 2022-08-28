@@ -1,0 +1,11 @@
+.flash {
+    background: #8898a830;
+    padding: 50px 0;
+    position: relative;
+  }
+
+  .flash img {
+    width: 280px;
+    height: 250px;
+    border-radius: 5px;
+  }
